@@ -1,0 +1,8 @@
+{
+    "version": "1.0.2",
+    "files": {
+        "game_core.py": "4c7b79a44e88b7bc5c301552fd56b17e",
+        "images/logo.png": "a694f2d70f68e656d6ec71598dc90b94",
+        "scripts/battle.py": "9eaec51fa967440e62b449d57a828d1f"
+    }
+}

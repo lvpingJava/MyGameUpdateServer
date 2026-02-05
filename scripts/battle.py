@@ -1,0 +1,1 @@
+def attack(): return 9999
